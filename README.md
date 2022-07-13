@@ -11,7 +11,7 @@
 
 
 - :telescope: I'm currently studying Maths, Physics and Computer Science at Collyer's College 💻;
-- :hourglass_flowing_sand: Learning Rust and Python;
+- :hourglass_flowing_sand: Learning Rust and Python (OpenCV and TensorFlow);
 - 📫 How to reach me: malhaimus@gmail.com
 <br><br><br><br>
 

@@ -16,7 +16,3 @@
 <br><br><br><br>
 
 
-----
-Credit: [ankitwarbhe](https://github.com/ankitwarbhe)
-
-Last Edited on: 23/09/2020

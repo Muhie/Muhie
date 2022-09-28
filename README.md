@@ -10,7 +10,7 @@
 
 
 - :telescope: I'm currently studying Maths, Physics and Computer Science at The College Of Richard Collyer 💻;
-- :hourglass_flowing_sand: Learning C++, Rust and Python;
+- :hourglass_flowing_sand: Learning C++, Dart and Python;
 <br><br><br><br>
 
 

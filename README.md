@@ -9,7 +9,7 @@
 
 
 
-- :telescope: I'm currently studying Maths, Physics and Computer Science at The College Of Richard Collyer 💻;
+- :telescope: I'm currently studying Robotic Engineering at Queen Mary, University of London 💻;
 - :hourglass_flowing_sand: Learning Go lang and Python;
 <br><br><br><br>
 

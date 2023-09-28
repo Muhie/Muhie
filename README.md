@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Muhie!](https://github.com/Muhie) 
+## Hi, I'm [Muhie!](https://github.com/Muhie) 
  
  
 

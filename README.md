@@ -10,7 +10,7 @@
 
 
 - :telescope: I'm currently studying Robotic Engineering at Queen Mary, University of London 💻;
-- :hourglass_flowing_sand: Learning Go lang and Python;
+- :hourglass_flowing_sand: Learning Go lang, Java and Python;
 <br><br><br><br>
 
 

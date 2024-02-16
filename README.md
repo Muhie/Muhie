@@ -12,7 +12,7 @@
 - :telescope: I'm currently studying Robotic Engineering at Queen Mary, University of London 💻;
 - :hourglass_flowing_sand: Learning Go lang, Java and Python;
 - MY LANGUAGES:
-- ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)

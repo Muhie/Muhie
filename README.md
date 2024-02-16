@@ -20,6 +20,6 @@
 <br><br>
 <img align="" height='130px' alt='img-not-loaded' src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 <br><br>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhie&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhie&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact">
 
 

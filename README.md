@@ -11,6 +11,7 @@
 
 - :telescope: I'm currently studying Robotic Engineering at Queen Mary, University of London 💻;
 - :hourglass_flowing_sand: Learning Go lang, Java and Python;
+- Proficient in Python, Java and some Markdown languages like (Tex and HTML)
 <br><br><br><br>
 
 

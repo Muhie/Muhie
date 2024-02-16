@@ -11,7 +11,14 @@
 
 - :telescope: I'm currently studying Robotic Engineering at Queen Mary, University of London 💻;
 - :hourglass_flowing_sand: Learning Go lang, Java and Python;
-- Proficient in Python, Java and some Markdown languages like (Tex and HTML)
+- MY LANGUAGES:
+- ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
 <br><br><br><br>
 <img align="" height='130px' alt='img-not-loaded' src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 <br><br><br><br>
